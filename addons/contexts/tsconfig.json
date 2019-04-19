@@ -5,5 +5,5 @@
     "types": ["webpack-env", "jest"]
   },
   "include": ["src/**/*"],
-  "exclude": ["src/register.ts", "src/__tests__/**/*"]
+  "exclude": ["src/register.ts", "src/__tests__/**/*", "src/**/*.test.ts"]
 }
